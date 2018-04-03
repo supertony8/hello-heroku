@@ -1,0 +1,1 @@
+p:\ide\#commandline\NuGet\ConEmu.Core.18.2.6\Tools\ConEmu\ConEmu64.exe 
